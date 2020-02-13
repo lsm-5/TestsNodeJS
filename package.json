@@ -1,6 +1,0 @@
-{
-  "devDependencies": {
-    "@sucrase/jest-plugin": "^2.0.0",
-    "@types/jest": "^25.1.2"
-  }
-}
